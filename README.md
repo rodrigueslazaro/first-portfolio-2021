@@ -6,3 +6,7 @@ This page is built with pure HTML, CSS and JS. But you can find pages built with
 other technologies on my portifolio, including: react, vue, bootstrap and buma.
 
 If you're interest in my work, please contact me!
+
+---
+
+My first attempt at a personal website, Setptember 2021.
